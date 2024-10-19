@@ -1,1 +1,1 @@
-print("Hello world!! Are you ecited to learn more. Yes we are very ecited!")
+print("Hello world!! Are you excited to learn more. Yes we are very excited!")
